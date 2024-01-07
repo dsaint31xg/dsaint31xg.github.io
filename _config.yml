@@ -7,8 +7,10 @@ twitter_username:
 github_username: dsaint31xg
 
 # markdown: kramdown
-theme: jekyll-theme-minimal
-# remote_theme: pages-themes/minimal@v0.2.0
+# theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+url: "https://dsaint31xg.github.io"
+baseurl: ""
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-feed
